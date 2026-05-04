@@ -1,8 +1,8 @@
 name: mediapipe_task_vision
 description: Google's MediaPipe Task Vision implementation for Flutter
-version: 0.0.1
+version: 0.0.2
 homepage: https://developers.google.com/mediapipe/solutions/guide
-repository: https://github.com/googlesamples/mediapipe
+repository: https://github.com/trefoil4/mediapipe_task_vision-fix
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
